@@ -4,7 +4,7 @@ This is a ROS-on-Windows repo 99.99% similar to the original for someone that wo
 
 ## Note
 
-* The README of the original rep ocontains instructions about downloading, installing and building of the packages
+* The README of the original repo contains instructions about downloading, installing and building of the packages
 * The packages have been used on Windows with ROS Kinetic and ROS Melodic
 * No official testing has taken place
 * The IKFast plugins existing for some of the manipulators are deprecated and `opw_kinematics` will be the official kinematics solver. This solver has been built easily on Windows and performs well 
